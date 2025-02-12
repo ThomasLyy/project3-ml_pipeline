@@ -86,5 +86,5 @@ pip install pandas scikit-learn tqdm matplotlib seaborn gap-statistic
 ---
 
 ## Auteur
-Développé par [Votre Nom].
+Développé par ThomasLyy.
 
